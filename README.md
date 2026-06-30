@@ -49,7 +49,7 @@ This project is an interactive **Ecommerce Sales Dashboard** developed in **Micr
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard screenshots.png)
+![Dashboard](dashboard-screenshots.png)
 
 
 
